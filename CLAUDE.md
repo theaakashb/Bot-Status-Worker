@@ -744,5 +744,5 @@ When contributing:
 ---
 
 **Last Updated**: 2026-09-18
-**Maintainer**: Penguin0011
+**Maintainer**: theaakashb
 **AI Assistant Note**: This document is optimized for AI code assistants. When working on this codebase, always refer to the architecture, data model, and development workflow sections above. Pay special attention to state management patterns and the dual offline detection mechanism (alarm + fallback).
